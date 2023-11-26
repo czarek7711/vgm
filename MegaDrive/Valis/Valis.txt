@@ -1,0 +1,42 @@
+***********************************************
+* Megadrive VGM music package                 *
+* http://project2612.org/                     *
+***********************************************
+
+Game name:           Valis / Mugen Senshi Valis
+System:              Sega Mega Drive
+Complete music dump: Yes
+
+Original author:     Shinobu Ogawa, Tenpei Sato
+Publisher:           Riot / Renovation
+Package created by:  2ch-H
+Package version:     1.01
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+The Fantasm Soldier                 1:07   -
+Opening Visual 1                    0:19   0:19
+Opening Visual 2                    0:32   0:26
+Frash of Sword                      1:07   0:56
+Lonely Soldier                      2:08   1:31
+Cellular Tissue                     0:23   0:23
+Dark Forest                         0:23   0:22
+The Wilderness                      1:15   0:59
+Death Wisper                        0:51   0:51
+Oger Battle                         0:31   0:29
+Last Battle                         1:08   1:00
+Pinch Zone                          0:27   0:27
+The Soldier is Born                 0:11   -
+Visual Scene 1                      0:19   0:18
+Visual Scene 2                      0:16   0:13
+Visual Scene 3                      1:14   1:14
+Sadness REIKO                       0:31   -
+Miss Blue                           1:35   -
+
+Notes:
+Packed by DJSW.
+
+Updates
+1.01 Satou -> Sato

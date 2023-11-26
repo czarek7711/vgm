@@ -1,0 +1,42 @@
+***********************************************
+* Megadrive VGM music package                 *
+* http://project2612.org/                     *
+***********************************************
+
+Game name:           Verytex
+System:              Sega Mega Drive
+Complete music dump: Yes
+
+Original author:     Hitoshi Sakimoto,
+                     Masaharu Iwata,
+                     Yoshio Furukawa
+Publisher:           Asmik
+Package created by:  DJ Squarewave
+Package version:     1.05
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Opening Theme                       0:33   -
+Act 1: The Void of Space            1:41   1:17
+Act 2: Border Region                1:37   1:30
+Act 3: Ruined Area                  1:15   1:15
+Act 4: Planetary Orbit              0:54   0:54
+Act 5: Inner Lining of the Planet   0:56   0:56
+Act 6: Inside Planet Shirakusa      1:07   1:07
+Boss Theme 1                        0:49   0:45
+Boss Theme 2                        0:33   0:05
+Stage Clear                         0:06   -
+Ending Theme                        3:50   2:40
+Game Over                           0:05   -
+
+Notes:
+Excellent music here, which turns a rather
+bland shmupping affair into a moderately
+enjoyable one. A definite pick for a list of
+underrated soundtracks, this... -DJSW
+
+Updates
+1.05: Added real name of JKL Furukawa.
+-dissident93

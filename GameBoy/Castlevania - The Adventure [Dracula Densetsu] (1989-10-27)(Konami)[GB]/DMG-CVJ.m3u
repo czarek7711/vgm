@@ -1,0 +1,15 @@
+# @TITLE       Castlevania: The Adventure
+# @ARTIST      Konami
+# @COMPOSER    Shigeru Fukutake, Kazuo Hanzawa, Hidehiro Funauchi
+# @DATE        1989-10-27
+# @RIPPER      Scott Worley
+# @TAGGER      Knurek, Electric Keet
+
+# Tag source (1~12)
+# Demon Castle Dracula Best 2
+# King Records, KICA-7507, 1991-12-05
+# track 2 corrected from "Holly" to "Holy"
+
+DMG-CVJ.gbs::GBS,0,Battle of the Holy [Stage 1 BGM],1:44,,10
+DMG-CVJ.gbs::GBS,3,Kill! Kill! Kill! [Stage 1~3 Common Boss BGM],0:26,,10
+DMG-CVJ.gbs::GBS,4,Death Fair [Stage 3 BGM],0:56,,10

@@ -1,0 +1,14 @@
+# @TITLE       Hisou Kihei X-Serd
+# @ARTIST      Masaya
+# @COMPOSER    Koji Hayama
+# @DATE        1990-02-23
+# @RIPPER      Manbow-J
+# @TAGGER      Kaminari
+
+# X-Serd is a sequel of sort to Lightning Baccus on the X68000, and is set in
+# the same universe as the Juusou Kihei (Assault Suits) shooting game series,
+# which includes Leynos on the Mega Drive and Valken on the Super Famicom.
+
+NCS90002.hes::HES,$02,Opening 1,58,,10
+NCS90002.hes::HES,$06,Password Screen,22,-,10
+NCS90002.hes::HES,$18,Scenario Briefing (Stage 3/6),25,-,10

@@ -1,0 +1,14 @@
+# @TITLE       Download 2
+# @ARTIST      Alfa System, NEC Avenue
+# @COMPOSER    Tadashi Kitamura, Kimitaka Matsumae, Suguru Yamaguchi
+# @DATE        1991-03-29
+# @RIPPER      Chris Covell
+# @TAGGER      Kaminari
+
+# The track "Intermission 2" is missing from the rip (it is the tune heard
+# during Demo 5 in the debug mode).
+
+NAPR-1018.hes::HES,$01,Syd's Condo,28,22,10
+NAPR-1018.hes::HES,$07,Intermission 1,51,,2
+NAPR-1018.hes::HES,$09,Intermission 4,50,,2
+NAPR-1018.hes::HES,$10,Intermission 6,45,,2

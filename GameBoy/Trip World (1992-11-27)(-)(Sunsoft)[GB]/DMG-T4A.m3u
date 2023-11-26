@@ -1,0 +1,15 @@
+# @TITLE       Trip World
+# @ARTIST      Sunsoft
+# @COMPOSER    Masayuki Iwata, Tstutomu Ishida, Atsushi Mihiro
+# @DATE        1992-11-27
+# @RIPPER      Scott Worley
+# @TAGGER      Specter, Knurek
+
+DMG-T4A.gbs::GBS,0,Intro,0:36,,2
+DMG-T4A.gbs::GBS,1,Title Screen,0:23,,2
+DMG-T4A.gbs::GBS,2,World 1,1:56,,10
+DMG-T4A.gbs::GBS,3,World 2 (Section 1),1:17,,10
+DMG-T4A.gbs::GBS,6,World 3 (Sections 1 & 3),1:08,,10
+DMG-T4A.gbs::GBS,10,World 4,2:18,,10
+DMG-T4A.gbs::GBS,13,World 5 Boss Battles,1:32,,10
+DMG-T4A.gbs::GBS,16,Final Boss Battle,1:17,,10

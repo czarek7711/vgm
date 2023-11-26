@@ -1,0 +1,63 @@
+***********************************************
+* Megadrive VGM music package                 *
+* http://project2612.org/                     *
+***********************************************
+
+Game name:           Golden Axe II
+System:              Sega Mega Drive
+Complete music dump: Yes
+
+Original author:     Naofumi Hataya
+Publisher:           Sega
+Package created by:  Unknown
+Package version:     1.02
+
+Files, in approximate game order:
+
+Name                                Length:
+                                    Total  Loop
+Title Theme                         0:58   0:09
+Ravaged Village                     0:59   0:52 
+Game Over                           0:03   -  
+Boss Theme 1                        0:54   0:44
+Bonus Stage                         0:46   0:38 
+Intermission                        0:09   0:09 
+Ruins                               0:45   0:45 
+Tower                               0:45   0:45 
+Dragon's Throat Cave                0:35   0:35 
+Boss Theme 2                        0:54   0:54 
+Castle Gates                        0:47   0:47 
+Castle                              1:20   0:48  
+Dark Guld's Chamber                 1:05   1:05
+Ending                              0:13   -             
+Credits                             0:58   0:48
+Final Score                         0:11   - 
+
+Notes:
+1.02 - "02 - Ravaged Village" has a bad loop 
+point and has been replaced with a longer 
+version with proper loop point.
+- Gnome
+
+Some of the songs have a sudden loop (they
+abruptly change tune at the loop) which makes
+it hard to determine where the exact loop point
+is located. While not 100% sure if the songs
+loop correctly (especially on song 03), they
+all sound great. Any inconsistencies between
+the real console and the VGM dumps are caused
+by the fact that in_vgm v0.34 doesn't use the
+Kega Fusion sound engine.
+
+Great soundtrack and nice variety, much like
+the rest of the game. The change of composers
+from the original Golden Axe to Naofumi Hataya
+adds more dramatic (and more bass heavy) music,
+which is what makes the music so great. The
+only way I could ding this soundtrack is the
+fact some songs aren't in stereo.
+
+Updates:
+1.01 - Added track titles, sorted files in the
+order you first hear them, and also added the
+release date.

@@ -1,0 +1,13 @@
+# @TITLE       Tetris Plus
+# @ARTIST      Natsume, Jaleco
+# @COMPOSER    Kazuo Sawa, Iku Mizutani
+# @DATE        1996-12-27
+# @RIPPER      Drag
+# @TAGGER      Blitz Lunar
+
+# Kazuo Sawa composed the original Arcade game's music, Iku Mizutani did the Game Boy port arrangements
+
+DMG-ATRJ-JPN.gbs::GBS,0,Title Screen,0:59,,10
+DMG-ATRJ-JPN.gbs::GBS,2,Select,0:34,,10
+DMG-ATRJ-JPN.gbs::GBS,4,Classic Mode II,2:08,,10
+DMG-ATRJ-JPN.gbs::GBS,11,Atlantis,1:55,,10

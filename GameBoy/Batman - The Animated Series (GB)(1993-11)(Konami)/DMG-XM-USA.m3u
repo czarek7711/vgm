@@ -1,0 +1,24 @@
+# @TITLE       Batman: The Animated Series
+# @ARTIST      Konami
+# @COMPOSER    Yoshiyuki Hagiwara, Yuko Kurahashi
+# @DATE        1993-11
+# @RIPPER      Scott Worley
+# @TAGGER      Knurek
+
+# DMG-XM-USA.gbs::GBS,0,Intro,0:58,,1
+DMG-XM-USA.gbs::GBS,5,Cutscene 1,0:19,,10
+# DMG-XM-USA.gbs::GBS,15,Batman Theme,2:36,,10
+DMG-XM-USA.gbs::GBS,14,Boss 1,0:50,,10
+# DMG-XM-USA.gbs::GBS,9,Change Hero,0:11,,5
+# DMG-XM-USA.gbs::GBS,16,Robin Theme,2:11,,10
+# DMG-XM-USA.gbs::GBS,3,Boss 2,0:32,,10
+# DMG-XM-USA.gbs::GBS,6,Cutscene 2,0:22,,10
+# DMG-XM-USA.gbs::GBS,1,Mr. Freeze Level,1:36,,10
+# DMG-XM-USA.gbs::GBS,8,Cutscene 3,0:30,,10
+# DMG-XM-USA.gbs::GBS,11,Catwoman Level,2:00,,10
+# DMG-XM-USA.gbs::GBS,2,Poison Ivy Level,1:48,,10
+# DMG-XM-USA.gbs::GBS,10,The Riddler Level,1:43,,10
+# DMG-XM-USA.gbs::GBS,7,The Penguin Level,0:26,,10
+# DMG-XM-USA.gbs::GBS,13,Cutscene 4,0:21,,10
+DMG-XM-USA.gbs::GBS,4,Final Boss,0:58,,10
+# DMG-XM-USA.gbs::GBS,12,Ending,0:56,,1

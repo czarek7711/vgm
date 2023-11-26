@@ -1,0 +1,22 @@
+# @TITLE       Bloody Wolf
+# @ARTIST      Data East
+# @COMPOSER    Azusa Hara, Hiroaki Yoshida, Tatsuya Kiuchi, Hitomi Komatsu, Shuuji Segawa, Shogo Sakai, Takafumi Miura, Yuji Suzuki, Yusuke Takahama
+# @DATE        1989-09-01
+# @RIPPER      Ancient Sound Vanished
+# @TAGGER      Kaminari
+
+# This is the PC Engine "port" of Battle Rangers (aka Bloody Wolf). The arcade
+# system board is actually a modified CoreGrafx PCB!
+
+DE89003.hes::HES,$2A,Title,20,16,10
+DE89003.hes::HES,$2B,Stage 1,56,-,10
+DE89003.hes::HES,$2C,Stage 2,41,-,10
+DE89003.hes::HES,$2D,Stage 3,39,31,10
+DE89003.hes::HES,$2E,Stage 4,50,-,10
+DE89003.hes::HES,$2F,Stage 5,47,40,10
+DE89003.hes::HES,$30,Stage 6,39,26,10
+DE89003.hes::HES,$2D,Stage 8,39,31,10
+DE89003.hes::HES,$36,Continue,6,,2
+DE89003.hes::HES,$37,Ending,1:16,,2
+DE89003.hes::HES,$38,Credits,1:00,-,10
+DE89003.hes::HES,$39,Unknown,29,-,10
